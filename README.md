@@ -1,5 +1,5 @@
 # whmcs-seo-addon
-WHMCS SEO Addon
+eWallHost.com WHMCS SEO Addon
 
 **1. Upload Files.**
 
